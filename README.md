@@ -1,2 +1,2 @@
-script.js # premium-laundry-dubai
+# premium-laundry-dubai
 Premium Laundry Service Dubai
